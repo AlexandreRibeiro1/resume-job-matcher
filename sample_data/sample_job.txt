@@ -1,0 +1,24 @@
+Vaga: Estágio em Ciência de Dados
+
+Sobre a vaga
+Buscamos estagiário(a) para apoiar o time de dados em análises, automação de
+relatórios e desenvolvimento de modelos simples de machine learning.
+
+Requisitos
+- Cursando Análise e Desenvolvimento de Sistemas, Ciência da Computação,
+  Engenharia ou áreas correlatas.
+- Conhecimento em Python e SQL.
+- Experiência (mesmo que em projetos pessoais) com pandas e numpy.
+- Noções de machine learning e scikit-learn.
+- Familiaridade com Git e GitHub para versionamento de código.
+- Diferencial: conhecimento em Docker, AWS e Power BI.
+- Diferencial: inglês para leitura de documentação técnica.
+
+Comportamento esperado
+- Boa comunicação e trabalho em equipe.
+- Proatividade para propor melhorias nos processos.
+- Organização para lidar com múltiplas demandas.
+
+Benefícios
+Bolsa-auxílio compatível com o mercado, vale-transporte, plano de saúde e
+horário flexível para conciliar com os estudos.

@@ -1,0 +1,26 @@
+Alexandre Ribeiro
+Estudante de Análise e Desenvolvimento de Sistemas
+
+Resumo
+Estudante na área de tecnologia, buscando primeira oportunidade de estágio em
+desenvolvimento de software ou dados. Gosto de aprender novas ferramentas e
+já desenvolvi projetos pessoais publicados no GitHub.
+
+Formação
+Análise e Desenvolvimento de Sistemas (cursando) - 4º semestre
+
+Projetos
+- Termo Fácil: jogo de adivinhação de palavras feito em HTML, CSS e JavaScript,
+  com testes manuais de fluxo completo e publicado no GitHub.
+- Scripts em Python para automatizar tarefas simples do dia a dia, usando
+  pandas para organizar planilhas e gerar relatórios.
+
+Habilidades técnicas
+Python, HTML, CSS, JavaScript, SQL, Git, GitHub, pandas, numpy,
+noções de scikit-learn, Excel.
+
+Habilidades comportamentais
+Comunicação, trabalho em equipe, organização, vontade de aprender.
+
+Idiomas
+Português (nativo), Inglês (intermediário, leitura técnica).

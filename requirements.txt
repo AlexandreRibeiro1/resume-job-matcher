@@ -1,0 +1,8 @@
+streamlit>=1.35
+pdfplumber>=0.11
+scikit-learn>=1.4
+numpy>=1.26
+
+# Opcional: ativa o modo de similaridade semântica (embeddings multilíngues).
+# Sem isso instalado, o app usa TF-IDF automaticamente e funciona normalmente.
+# sentence-transformers>=3.0
