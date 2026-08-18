@@ -5,3 +5,5 @@ venv/
 .pytest_cache/
 *.egg-info/
 .streamlit/secrets.toml
+publish_to_github.ps1
+publish_log.txt
