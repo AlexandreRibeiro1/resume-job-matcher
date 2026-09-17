@@ -1,5 +1,14 @@
 # 🧭 Verificador Currículo x Vaga
 
+> **🇺🇸 In English:** a Streamlit app that compares a résumé (PDF or text) with
+> a job description. It extracts text with `pdfplumber`, matches technical and
+> soft skills against a curated dictionary (showing what matches and what is
+> missing), and measures text similarity with TF-IDF + cosine similarity, or
+> with multilingual sentence embeddings when `sentence-transformers` is
+> installed. Both signals are combined into a 0–100% fit score with concrete
+> suggestions on what to adjust before applying. Covered by 18 pytest tests,
+> including false-positive cases in skill matching.
+
 Ferramenta em Python que compara um currículo com a descrição de uma vaga e
 mostra o quanto eles têm em comum — quais skills batem, quais estão faltando,
 e um score geral de compatibilidade.
